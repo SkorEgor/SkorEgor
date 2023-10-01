@@ -25,8 +25,6 @@ Languages and Tools / Языки и Инструменты</h3>
 Отрисовка графиков в Picture Control MFC. Класс ["Drawer.h"]() создан для удобной/простой отрисовки графиков c помощью «afxwin» в Picture Control, библиотеки MFC.
 
 <br><br> <br><br> <br><br><br><br>
-
-
 <!---------------------------------------------------------------------------------->
 <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
@@ -39,6 +37,24 @@ Languages and Tools / Языки и Инструменты</h3>
 * Расчет траектории производится методом Рунге-Кутты 4-го порядка
 
 <br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
+### [Endulum]([https://github.com/SkorEgor/PhysicalAnimation_BallFlight](https://github.com/SkorEgor/Pendulum))
 
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/Endulum/phase_trajectory_2.gif" align="right" width=300>
+
+Анимация движения маятника с учетом трения о воздух и в подшипнике.
+
+Вычисления проводятся в отдельном классе RungeKutta_method, с помощью Метода Рунге — Кутты.
+В отдельном потоке вызывается отрисовка, за код потока отвечает файл AnimationFlow
+За отрисовку отвечает Drawer.h
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/Endulum/phase_portrait.gif" align="right" width=300>
+
+Программа  имеет 2 режима
+1) Анимация движения маятника и фазовая траектория
+2) Исследовательский, отрисовки нескольких фазовых траекторий с разными параметрами - фазовый портрет.
+
+<br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
