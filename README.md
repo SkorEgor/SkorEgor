@@ -40,7 +40,7 @@ Languages and Tools / Языки и Инструменты</h3>
 <!---------------------------------------------------------------------------------->
 <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
-### [Endulum]([https://github.com/SkorEgor/PhysicalAnimation_BallFlight](https://github.com/SkorEgor/Pendulum))
+### [Endulum](https://github.com/SkorEgor/Pendulum)
 
 <img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/Endulum/phase_trajectory_2.gif" align="right" width=300>
 
@@ -55,6 +55,18 @@ Languages and Tools / Языки и Инструменты</h3>
 Программа  имеет 2 режима
 1) Анимация движения маятника и фазовая траектория
 2) Исследовательский, отрисовки нескольких фазовых траекторий с разными параметрами - фазовый портрет.
+
+<br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
+### [WavePacket_3D](https://github.com/SkorEgor/WavePacket_3D)
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/WavePacket_3d/demo.gif" align="right" width=300>
+
+Анимация эволюции волнового пакета в трехмерном пространстве, квантовой механики
+
+Вычисления проводятся в отдельном классе GridSweepMethod, с помощью линеаризации и метода прогонки. В отдельном потоки вызывается отрисовка, за код потока отвечает файл AnimationFlow За трех мерную отрисовку painter
 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
