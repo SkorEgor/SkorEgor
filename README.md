@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=SkorEgor)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkorEgor)](https://git.io/streak-stats)
 <!--
 **SkorEgor/SkorEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
