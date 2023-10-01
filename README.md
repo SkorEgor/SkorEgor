@@ -1,42 +1,62 @@
-### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=SkorEgor)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkorEgor)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkorEgor)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkorEgor)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?SkorEgor)
+<h1 align="center">👋 Egor / Егор </h1>
+<h3 align="center">
+LANGUAGES AND TOOLS / ЯЗЫКИ И ИНСТРУМЕНТЫ:
+<br/>
+<br/>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MFC](https://img.shields.io/badge/-MFC-%2300599C?style=for-the-badge)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 
 
-<h1 align="center"> Привет 👋, я Егор Скороходовегор</h1>
-<h3 align="center"> Страстный фронтенд-разработчик из Индии</h3>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![bluetooth app](https://img.shields.io/badge/bluetooth_app-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white)
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skoregor&label=Profile%20views&color=0e75b6&style=flat " alt="скорегор" /> </p>
+<h2 align="center">Interesting Project / Interesting Projects</h2> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoregor " alt="скорегор" /></a> </p>
+<h3 align="left">
 
-<h3 align="left"> Связаться со мной:</h3>
-<p align="left">
-</p>
+[GraphDrawing](https://github.com/SkorEgor/GraphDrawing)
+</h3> 
 
-<p align="left"> <a href="https://developer.
-<h3 align="left"> Языки и инструменты:</h3>vectorlogo.zone/логотипы/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg " alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io /" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg " alt="qt" width="40" height="40"/> </a> </p>
 
-android.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg " alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc /" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg " alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg " alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs /" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg " alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com /" target="_blank" rel="noreferrer">
+<img src="https://github.com/SkorEgor/GraphDrawing/raw/writingREADME/Картинки/9.ExampleWin.png" align="right" width=300>
 
-vectorlogo.zone/логотипы/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg " alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg " alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io /" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg " alt="qt" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skoregor &" alt="скорегор" /></p>
+Отрисовка графиков в Picture Control MFC. Класс ["Drawer.h"]() создан для удобной/простой отрисовки графиков c помощью «afxwin» в Picture Control, библиотеки MFC.
 
-<!--
-**SkorEgor/SkorEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br> <br><br> <br><br> <br><br> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---------------------------------------------------------------------------------->
+
+
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
+<h3 align="left">
+
+[PhysicalAnimatio BallFlight](https://github.com/SkorEgor/PhysicalAnimation_BallFlight)
+</h3> 
+
+
+<img src="https://github.com/SkorEgor/PhysicalAnimation_BallFlight/raw/main/Pictures/bandicam%202022-07-18%2015-54-09-616%20(1).gif" align="right" width=300>
+
+
+Проект моделирует полет маленького мяча через отверстие в стене так, чтобы он попал в лунку, учитывая сопротивление воздуха с силой, зависящее от скорости в квадрате. 
+* Расчет траектории не возможен аналитически.
+* Расчет траектории производится методом Рунге-Кутты 4-го порядка
+
+<br><br> <br><br> 
+
+
+<!---------------------------------------------------------------------------------->
