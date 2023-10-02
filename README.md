@@ -46,12 +46,13 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" height=28>
-<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
-<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [Simple graphics animation Gdi](https://github.com/SkorEgor/Simple_graphics_animation_Gdi)
 
+
+<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 <img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/simple_graphics_animation_gdi/demo.gif" align="right" width=300>
 
 Пример работы с ***Gdi*** и событием таймера ***"OnTimer"*** для создания анимации графика
