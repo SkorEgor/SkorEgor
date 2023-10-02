@@ -26,6 +26,7 @@ Languages and Tools / Языки и Инструменты</h3>
 <h2> Содержание / Интересные проекты  </h2>
 
 - [ C++ ](https://github.com/SkorEgor#interesting-project-с--интересные-проекты-с-)
+- [ C++ ](https://github.com/SkorEgor#interesting-project-kotlin-and-android--интересные-проекты-kotlin-и-android-)
 
 
 
