@@ -16,7 +16,8 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <h2 align="center">Interesting Project / Интересные проекты</h2> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
 
 ### [GraphDrawing](https://github.com/SkorEgor/GraphDrawing)
 
@@ -26,7 +27,7 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=200><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
 ### [PhysicalAnimatio BallFlight](https://github.com/SkorEgor/PhysicalAnimation_BallFlight)
 
