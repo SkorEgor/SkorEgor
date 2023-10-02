@@ -82,7 +82,7 @@ Languages and Tools / Языки и Инструменты</h3>
 4) Drawer -  отрисовывает данные через ***Gdi***
 
 
-<br><br> <br><br> 
+<br><br> 
 <!---------------------------------------------------------------------------------->
 <img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" width=158><img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=196><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
@@ -99,4 +99,27 @@ Languages and Tools / Языки и Инструменты</h3>
 4) Drawer -  отрисовывает в 2d данные через ***Gdi***
 5) painter -  отрисовывает в 3d график, с учетом его поворотов. Перебирая все точки-> групирует в полигоны и отрисовыввает 
 <br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-cryptography-090909?style=for-the-badge" align="right" width=150><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
+### [Cryptography XOR RSA DES](https://github.com/SkorEgor/XOR_RSA_DES)
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/XOR_RSA_DES/XOR.gif" align="right" width=300>
+
+Оконное приложене позволяющее производить шифрование и дешифрование, алгоритмами: XOR, RSA, DES.
+
+О проекте
+1) Проект разбит на классы, выполняющие функцию шифрование
+2) Алгоритмы реализованы без библиотек, самостоятельно
+3) Текст можно вводит в соответствующее поле или загружать из папки
+4) Сохранение полученного текста в виде файла, выбрав путь с помощью окна обозревателя
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/XOR_RSA_DES/RSA.gif" align="right" width=300>
+
+5) Возможность выбора алгоритма шифрования, загрузки ключей и их генерации
+6) Выбор режима шифрования или дешифрования
+   
+
+
+<br><br> <br><br> <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
