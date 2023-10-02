@@ -17,7 +17,7 @@ Languages and Tools / Языки и Инструменты</h3>
 <details>
   <summary>     <h2> Содержание / Интересные проекты  </h2>  </summary>
   <ol>
-    <li><a href="#Interestin-Project-С++-/-Интересные-проекты-С++"С++</a></li>
+    <li><a href="#Interestin-Project-С++-/-Интересные-проекты-С++">С++</a></li>
     <li><a href="#Демонстрация">Демонстрация</a></li>
     <li><a href="#Установка">Установка</a></li>
     <li><a href="#Описание-класса-Drawer">Описание класса Drawer</a></li>
