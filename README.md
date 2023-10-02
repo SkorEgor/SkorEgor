@@ -33,7 +33,9 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <h2 align="center">Interesting Project С++ / Интересные проекты С++ </h2> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" width=67><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 
 ### [GraphDrawing](https://github.com/SkorEgor/GraphDrawing)
@@ -44,7 +46,9 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" width=67><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-Gdi+-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [Simple graphics animation Gdi](https://github.com/SkorEgor/Simple_graphics_animation_Gdi)
 
@@ -55,7 +59,9 @@ Languages and Tools / Языки и Инструменты</h3>
 Программа позволяет строить, запускать и приостанавливать анимацию.  Cобытие Timer, генерирует вызов функции перерисовки с заданным интервалом.
 <br><br> <br><br> <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" align="right" width=110><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [Cube openGL](https://github.com/SkorEgor/Cube_openGL)
 
@@ -66,7 +72,9 @@ Languages and Tools / Языки и Инструменты</h3>
 В программе заданы плоскости куба, с раскраской граней. Сделан поворот фигуры по клавишам стрелок. 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=196><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [PhysicalAnimatio BallFlight](https://github.com/SkorEgor/PhysicalAnimation_BallFlight)
 
@@ -78,7 +86,10 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" width=158><img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=196><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [Endulum](https://github.com/SkorEgor/Pendulum)
 
@@ -101,7 +112,10 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" width=158><img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=196><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [WavePacket 3D](https://github.com/SkorEgor/WavePacket_3D)
 
@@ -117,7 +131,9 @@ Languages and Tools / Языки и Инструменты</h3>
 5) painter -  отрисовывает в 3d график, с учетом его поворотов. Перебирая все точки-> групирует в полигоны и отрисовыввает 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-cryptography-090909?style=for-the-badge" align="right" width=150><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-cryptography-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" height=28>
 
 ### [Cryptography XOR RSA DES](https://github.com/SkorEgor/XOR_RSA_DES)
 
@@ -145,9 +161,9 @@ Languages and Tools / Языки и Инструменты</h3>
 <!---------------------------------------------------------------------------------->
 <h2 align="center">Interesting Project Kotlin and Android / Интересные проекты Kotlin и Android </h2> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-Thread-090909?style=for-the-badge" align="right" width=90>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" align="right" width=200>
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" align="right" width=115>
+<img src="https://img.shields.io/badge/-Thread-090909?style=for-the-badge" align="right" height=28>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" align="right" height=28>
 
 
 ### [RobotControl](https://github.com/SkorEgor/RobotControl)
