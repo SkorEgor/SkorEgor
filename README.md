@@ -84,15 +84,19 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
-<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+<img src="https://img.shields.io/badge/-WINAPI_Thread-090909?style=for-the-badge" align="right" width=158><img src="https://img.shields.io/badge/-numerical_methods-090909?style=for-the-badge" align="right" width=196><img src="https://img.shields.io/badge/-MFC-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80><img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
-### [WavePacket_3D](https://github.com/SkorEgor/WavePacket_3D)
+### [WavePacket 3D](https://github.com/SkorEgor/WavePacket_3D)
 
 <img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/WavePacket_3d/demo.gif" align="right" width=300>
 
 Анимация эволюции волнового пакета в трехмерном пространстве, квантовой механики
 
-Вычисления проводятся в отдельном классе GridSweepMethod, с помощью линеаризации и метода прогонки. В отдельном потоки вызывается отрисовка, за код потока отвечает файл AnimationFlow За трех мерную отрисовку painter
-
+В программу входит
+1) Класс Task1-Endulum_2Dlg - обрабатывает интерфейс, хранит данные, вызывает обработку/отрисовку данных
+2) Класс GridSweepMethod - расчитывает следующие значения волновой функции,  ***методамом линеризации, неявной разностной схемы и сеточной прогонки***
+3) AnimationFlow - поток на основе ***WINAPI*** запускающее динаическую отрисовку данных
+4) Drawer -  отрисовывает в 2d данные через ***Gdi***
+5) painter -  отрисовывает в 3d график, с учетом его поворотов. Перебирая все точки-> групирует в полигоны и отрисовыввает 
 <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
