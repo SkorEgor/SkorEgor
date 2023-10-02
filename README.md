@@ -12,18 +12,10 @@ Languages and Tools / Языки и Инструменты</h3>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width=69.8> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" width=84><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" width=145> <img src="https://img.shields.io/badge/bluetooth_app-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white" width=136>
 </div>
 
----
+<h2> Содержание / Интересные проекты  </h2>
 
-<details>
-  <summary>     <h2> Содержание / Интересные проекты  </h2>  </summary>
-  <ol>
-    <li><a href="#Interestin-Project-С++-/-Интересные-проекты-С++">С++</a></li>
-    <li><a href="#Демонстрация">Демонстрация</a></li>
-    <li><a href="#Установка">Установка</a></li>
-    <li><a href="#Описание-класса-Drawer">Описание класса Drawer</a></li>
-    <li><a href="#Особенности-проекта">Особенности проекта</a></li>
-  </ol>
-</details>
+- [ C++ ](https://github.com/SkorEgor#interesting-project-с--интересные-проекты-с-)
+
 
 
 <h2 align="center">Interesting Project С++ / Интересные проекты С++ </h2> 
