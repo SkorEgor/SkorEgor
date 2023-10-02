@@ -127,3 +127,28 @@ Languages and Tools / Языки и Инструменты</h3>
 
 <br><br> <br><br> <br><br> <br><br> 
 <!---------------------------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------------------------->
+<h2 align="center">Interesting Project Kotlin and Android / Интересные проекты Kotlin и Android </h2> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-Thread-090909?style=for-the-badge" align="right" width=90>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" align="right" width=200>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" align="right" width=115>
+
+
+### [RobotControl](https://github.com/SkorEgor/RobotControl)
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/RobotControl/1.1.png" align="right" width=300>
+
+Android приложение для управления роботом по bluetooth, при помощи кнопок. Каждая кнопка отсылает свой символ, при зажатом состоянии автоматически отправляются символы с задержкой в 20 мс. Поддержание подлкючения и повторная отправка символов, при зажатой кнопки обеспечивается отдельными классами ***[отнаследованными от класса потока "Thread"](https://github.com/SkorEgor/RobotControl#repeating-the-message)***.
+<br><br> 
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/RobotControl/robot.gif" align="right" width=300>
+Алгоритм работы с приложением
+* Зайти в настройки телефона, во вкладе bluetooth добавить новое устройство;
+* Открыть приложение;
+* Нажать кнопку «BLUETOTH CONTROL»;
+* Установить связь с устройством a. В правом верхнем углу. Нажать на значок bluetooth b. В появившемся списке выбрать нужное устройство
+* Начать управление, нажимая или зажимая кнопки
+<br><br> <br><br> <br><br><br><br>
+<!---------------------------------------------------------------------------------->
