@@ -51,6 +51,17 @@ Languages and Tools / Языки и Инструменты</h3>
 <!---------------------------------------------------------------------------------->
 <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
+### [Simple graphics animation Gdi](https://github.com/SkorEgor/Simple_graphics_animation_Gdi)
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/simple_graphics_animation_gdi/demo.gif" align="right" width=300>
+
+Пример работы с Gdi и потоками для создания анимации графика
+
+Программа позволяет строить, запускать и приостанавливать анимацию.  
+<br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
 ### [Endulum](https://github.com/SkorEgor/Pendulum)
 
 <img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/Endulum/phase_trajectory_2.gif" align="right" width=300>
