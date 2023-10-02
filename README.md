@@ -40,6 +40,17 @@ Languages and Tools / Языки и Инструменты</h3>
 <!---------------------------------------------------------------------------------->
 <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
 
+### [Cube openGL](https://github.com/SkorEgor/Cube_openGL)
+
+<img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/openGL/openGL.gif" align="right" width=300>
+
+Отрисовка трехмерной цветной фигуры в OpenGl и реализация вращения
+
+В программе заданы плоскости куба, с раскраской граней. Сделан поворот фигуры по клавишам стрелок. 
+<br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC" align="right" width=80>
+
 ### [Endulum](https://github.com/SkorEgor/Pendulum)
 
 <img src="https://github.com/SkorEgor/picturesgifs-for-readme/raw/RobotControl/Endulum/phase_trajectory_2.gif" align="right" width=300>
