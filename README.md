@@ -28,6 +28,8 @@ Languages and Tools / Языки и Инструменты</h3>
 
 - [ C++ ](https://github.com/SkorEgor#interesting-project-с--интересные-проекты-с-)
 - [ Kotlin & Android ](https://github.com/SkorEgor#interesting-project-kotlin-and-android--интересные-проекты-kotlin-и-android-)
+- [ Python ](https://github.com/SkorEgor#interesting-python-project--интересные-проекты-на-python-)
+- [ Python / Дипломная работа бакалавриата](https://github.com/SkorEgor#-дипломная-работа-бакалавриата-)
 
 
 
