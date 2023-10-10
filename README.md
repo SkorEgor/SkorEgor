@@ -206,8 +206,10 @@ Android приложение для управления роботом по blu
 <img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Detector-Difference/18_absorption_line.png" width=600>
 </div>
 
+
 <!---------------------------------------------------------------------------------->
-<br><br>
+<h3 align="left"> Метода абсолютной разницы между рассматриваемыми </h3> 
+<!---------------------------------------------------------------------------------->
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="right" height=28>
@@ -247,7 +249,7 @@ Android приложение для управления роботом по blu
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
 
 ### [Test Difference](https://github.com/SkorEgor/Test-Difference)
-<img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Detector-Difference/statistics.jpg" align="right" height=350>
+<img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Detector-Difference/statistics.jpg" align="right" width=300>
 
 Программа для тестирования и сбора статистики **Метода абсолютной разницы между рассматриваемыми данными** 
 
@@ -262,4 +264,35 @@ Android приложение для управления роботом по blu
 3                 51.0               1.0                  1.0  .
 ```
 - Полученная статистика позволит судить об эффективность и наилучшем результате
+
+<br><br> <br><br>
+
+<!---------------------------------------------------------------------------------->
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="right" height=28>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" align="right" height=28>
+
+
+### [Image Filter](https://github.com/SkorEgor/Filter_Images)
+
+<img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Image_filter/Image.jpg" align="right" width=500>
+
+Программа генерирует или загружает картинку, накладывает шум и проводит метод фильтрации. Метод основа на преобразовании Фурье, получении спектра, удаление значений с малой энергией и восстановлении. Позволяя оценить работу метода и сравнить исходное с восстановленное изображение
+
+
+**Алгоритм**
+
+1. Ввод данных. Генерация Гауссовых куполов / Загрузка изображения, перевод в оттенки серого
+2. Добавление шума.
+3. Получение спектра. Так как используется быстрое Фурье преобразование в программе предусмотренно автоматическое доведение до степени 2 интерполяцией или дополнением нулями.
+
+<img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Image_filter/gaus.jpg"  align="right" width=500>
+
+4. Отображать будем модуль спектра
+5. Находим область с заданной энергией
+6. Все что не в области, в исходном комплексном спектре зануляется
+7. Берем обратное фурье преобразование, аналогичное прямому
+<br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
