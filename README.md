@@ -298,3 +298,19 @@ Android приложение для управления роботом по blu
 7. Берем обратное фурье преобразование, аналогичное прямому
 <br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="right" height=28>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" align="right" height=28>
+
+
+### [Antenna Directive](https://github.com/SkorEgor/Antenna_Directivity_version2)
+
+<img src="https://raw.githubusercontent.com/SkorEgor/picturesgifs-for-readme/RobotControl/Antenna_Directive/2_demonstration_work.gif" align="right" width=500>
+
+Программа генерирует поле кнопок по заданным размерам. Каждая кнопка это ячейка куда можно поставить антенну. После обработки получаем значения интенсивности на сфере (в виде проекции на плоскость) в виде 3d и 2d графика
+
+
+<br><br> <br><br> <br><br>
+<!---------------------------------------------------------------------------------->
