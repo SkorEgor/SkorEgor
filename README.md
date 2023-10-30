@@ -312,5 +312,28 @@ Android приложение для управления роботом по blu
 Программа генерирует поле кнопок по заданным размерам. Каждая кнопка это ячейка куда можно поставить антенну. После обработки получаем значения интенсивности на сфере (в виде проекции на плоскость) в виде 3d и 2d графика
 
 
-<br><br> <br><br> <br><br>
+<br><br> <br><br> <br><br> <br><br>
+
+<!---------------------------------------------------------------------------------->
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="right" height=28>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" align="right" height=28>
+
+### [Converting a graph into a distribution](https://github.com/SkorEgor/Graph_in_distribution)
+<img src="https://user-images.githubusercontent.com/92719975/279040522-dc396bc8-28e4-4ee3-86f1-6af50832de00.gif" align="right" width=500>
+
+Программа реализовывает интересные особенности
+1. Вызов модального окна с последующим возвратом значения
+2. Использование кастомного lable, на заднем фоне сетка, на переднем можно рисовать график.
+lable имеет функцию перевода графика в массив.
+
+Для проверки корректности перевода, в модальном окне предусмотрено отображение массива в виде графика
+
+#### Вы можете использовать модальное окно с lable в своих проектах
+[Инструкция по использованию](https://github.com/SkorEgor/Graph_in_distribution#-2-добавление-в-свой-проект-)
+
+<br><br> <br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
