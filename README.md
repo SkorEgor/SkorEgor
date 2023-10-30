@@ -335,5 +335,35 @@ lable имеет функцию перевода графика в массив.
 #### Вы можете использовать модальное окно с lable в своих проектах
 [Инструкция по использованию](https://github.com/SkorEgor/Graph_in_distribution#-2-добавление-в-свой-проект-)
 
-<br><br> <br><br> <br><br><br><br>
+<br><br> <br><br> <br><br> <br><br> <br><br> <br><br> 
+<!---------------------------------------------------------------------------------->
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="right" height=28> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" align="right" height=28>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" align="right" height=28>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white" align="right" height=28>
+
+### [Brightness Editor](https://github.com/SkorEgor/Brightness_Editor)
+<img src="https://user-images.githubusercontent.com/92719975/279103928-11ec1b15-6209-4382-a50a-31f4ac77da57.gif" align="right" width=500>
+
+Программа загружает картинку и редактирует ярость, с помощью одного из предложенных методов
+
+**МЕТОДЫ**
+
+1. Линейная растяжка гистограммы
+2. Нормализация гистограммы
+3. Линеаризация или эквализациии гистограммы
+4. Общий случай
+
+<br><br> 
+#### Особенное внимание стоит обратить на
+
+Через задание уравнения линейной гистограммы | Через задание уравнения линейной гистограммы
+
+<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/b763851f-0c21-4da0-a35d-9f45dd30d918" align="right" width=400>
+
+<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/64f996e1-06db-43b5-8f5d-bc653384fe81" align="left" width=400>
+
+<br><br> <br><br><br><br>
 <!---------------------------------------------------------------------------------->
