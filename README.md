@@ -359,11 +359,13 @@ lable имеет функцию перевода графика в массив.
 <br><br> 
 #### Особенное внимание стоит обратить на
 
-Через задание уравнения линейной гистограммы | Через задание уравнения линейной гистограммы
 
-<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/b763851f-0c21-4da0-a35d-9f45dd30d918" align="right" width=400>
+<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/b763851f-0c21-4da0-a35d-9f45dd30d918" align="right" width=500>
+Через задание уравнения линейной гистограммы
 
-<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/64f996e1-06db-43b5-8f5d-bc653384fe81" align="left" width=400>
+<br><br> <br><br> <br><br> <br><br> <br><br> 
+<img src="https://github.com/SkorEgor/Brightness_Editor/assets/92719975/64f996e1-06db-43b5-8f5d-bc653384fe81" align="right" width=500>
+Через задание уравнения линейной гистограммы
 
-<br><br> <br><br><br><br>
+<br><br>
 <!---------------------------------------------------------------------------------->
